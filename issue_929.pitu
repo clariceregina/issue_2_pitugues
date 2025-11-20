@@ -1,0 +1,7 @@
+var frase = 'Eu sou um triângulo retângulo'
+var piramide = []
+var frase_fatiada = frase.dividir(' ')
+
+para cada palavra em frase_fatiada:
+    piramide.adicionar(palavra)
+    imprima(piramide)
